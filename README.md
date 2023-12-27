@@ -1,12 +1,9 @@
 # Syllabus
 Data Science Specialization SwiftKey Capstone
+
 Course Instructor(s)
 
-- Jeff Leek
-
-- Roger Peng
-
-- Brian Caffo
+- Jeff Leek, Roger Peng, Brian Caffo
 
 The goal of this data science specialization has been to give you the basic skills involved with being a data scientist. The goal of this capstone is to mimic the experience of being a data scientist. As a practicing data scientist it is entirely common to get a messy data set, a vague question, and very little instruction on exactly how to analyze the data. Our goal is to give you that same experience but with added support in the form of forums, discussion with instructors, feedback from SwiftKey and Coursera engineers, and a structured problem to solve. We hope that you will take advantage of the opportunity this project affords for you to demonstrate your skills and creativity. 
 Course Tasks
