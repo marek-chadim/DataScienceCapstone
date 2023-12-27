@@ -1,35 +1,24 @@
-# Syllabus
-Data Science Specialization SwiftKey Capstone
+# Overwiev
 
-Course Instructor(s)
+This course is separated into 8 different tasks that cover the range of activities encountered by a practicing data scientist. They mirror many of the skills  developed in the data science specialization. The tasks are: 
+- Understanding the problem
+- Data acquisition and cleaning
+- Exploratory analysis
+- Statistical modeling
+- Predictive modeling
+- Creative exploration
+- Creating a data product
+- Creating a short slide deck pitching your product
 
-- Jeff Leek, Roger Peng, Brian Caffo
+## Report  
+[https://rpubs.com/Marek_Chadim/1133682](https://rpubs.com/Marek_Chadim/1133682)
 
-The goal of this data science specialization has been to give you the basic skills involved with being a data scientist. The goal of this capstone is to mimic the experience of being a data scientist. As a practicing data scientist it is entirely common to get a messy data set, a vague question, and very little instruction on exactly how to analyze the data. Our goal is to give you that same experience but with added support in the form of forums, discussion with instructors, feedback from SwiftKey and Coursera engineers, and a structured problem to solve. We hope that you will take advantage of the opportunity this project affords for you to demonstrate your skills and creativity. 
-Course Tasks
+## Application
+[https://egozd7-marek-chadim.shinyapps.io/Capstone/](https://egozd7-marek-chadim.shinyapps.io/Capstone/)
+## Presentation
 
-This course will be separated into 8 different tasks that cover the range of activities encountered by a practicing data scientist. They mirror many of the skills you have developed in the data science specialization. The tasks are:
+[https://rpubs.com/Marek_Chadim/1133726](https://rpubs.com/Marek_Chadim/1133726)
 
--    Understanding the problem
 
--    Data acquisition and cleaning
-
- -   Exploratory analysis
-
- -   Statistical modeling
-
- -   Predictive modeling
-
- -   Creative exploration
-
- -   Creating a data product
-
-  -  Creating a short slide deck pitching your product
-
-Course dataset
-
-This is the training data to get you started that will be the basis for most of the capstone. You must download the data from the link below and not from external websites to start.
-
--    https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
 
 
