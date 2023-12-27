@@ -1,23 +1,40 @@
-# Project Overview
+# Syllabus
+Data Science Specialization SwiftKey Capstone
+Course Instructor(s)
 
-Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. But typing on mobile devices can be a serious pain. SwiftKey, our corporate partner in this capstone, builds a smart keyboard that makes it easier for people to type on their mobile devices. One cornerstone of their smart keyboard is predictive text models. When someone types:
+- Jeff Leek
 
-I went to the
+- Roger Peng
 
-the keyboard presents three options for what the next word might be. For example, the three words might be gym, store, restaurant. In this capstone you will work on understanding and building predictive text models like those used by SwiftKey.
+- Brian Caffo
 
-This course will start with the basics, analyzing a large corpus of text documents to discover the structure in the data and how words are put together. It will cover cleaning and analyzing text data, then building and sampling from a predictive text model. Finally, you will use the knowledge you gained in data products to build a predictive text product you can show off to your family, friends, and potential employers.
+The goal of this data science specialization has been to give you the basic skills involved with being a data scientist. The goal of this capstone is to mimic the experience of being a data scientist. As a practicing data scientist it is entirely common to get a messy data set, a vague question, and very little instruction on exactly how to analyze the data. Our goal is to give you that same experience but with added support in the form of forums, discussion with instructors, feedback from SwiftKey and Coursera engineers, and a structured problem to solve. We hope that you will take advantage of the opportunity this project affords for you to demonstrate your skills and creativity. 
+Course Tasks
 
-You will use all of the skills you have learned during the Data Science Specialization in this course, but you'll notice that we are tackling a brand new application: analysis of text data and natural language processing. This choice is on purpose. As a practicing data scientist you will be frequently confronted with new data types and problems. A big part of the fun and challenge of being a data scientist is figuring out how to work with these new data types to build data products people love. The capstone will be evaluated based on the following assessments:
+This course will be separated into 8 different tasks that cover the range of activities encountered by a practicing data scientist. They mirror many of the skills you have developed in the data science specialization. The tasks are:
 
-  -  An introductory quiz to test whether you have downloaded and can manipulate the data.
+-    Understanding the problem
 
-  -  An intermediate R markdown report that describes in plain language, plots, and code your exploratory analysis of the course data set.
+-    Data acquisition and cleaning
 
-  - Two natural language processing quizzes, where you apply your predictive model to real data to check how it is working.
+ -   Exploratory analysis
 
-  -  A Shiny app that takes as input a phrase (multiple words), one clicks submit, and it predicts the next word.
+ -   Statistical modeling
 
-  - A 5 slide deck created with R presentations pitching your algorithm and app to your boss or investor.
+ -   Predictive modeling
 
-During the capstone you can get support from your fellow students, from us, and from the engineers at SwiftKey. But we really want you to show your independence, creativity, and initiative. We have been incredibly impressed by your performance in the classes up until now and know you can do great things.
+ -   Creative exploration
+
+ -   Creating a data product
+
+  -  Creating a short slide deck pitching your product
+
+Course dataset
+
+This is the training data to get you started that will be the basis for most of the capstone. You must download the data from the link below and not from external websites to start.
+
+-    https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
+
+Later in the course you may use external data sets to augment your model as you see fit.
+
+
