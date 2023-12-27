@@ -1,0 +1,46 @@
+---
+title: "PromtClue"
+author: Marek Chadim
+date: 27 December, 2023
+format: revealjs
+editor: visual
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Overview
+
+This presentation introduces a text prediction algorithm PromtClue
+
+The PromptClue app is located at:
+
+-   [https://egozd7-marek-chadim.shinyapps.io/Capstone/](https://egozd7-marek-chadim.shinyapps.io/Capstone/)
+
+The source code files can be found on GitHub:
+
+-  [https://github.com/marek-chadim/Data-Science-Capstone.git](https://github.com/marek-chadim/Data-Science-Capstone.git)
+
+## Shiny Application
+
+- The application will suggest the next word in a sentence
+using an n-gram algorithm
+
+- An n-gram is a contiguous sequence of *n* words from a given sequence of text the text used to build the predictive text model
+
+## The Predictive Text Model
+
+- 800,000 lines extracted from the large corpus of blogs,
+news and twitter data
+
+- The algorithm iterates from longest n-gram (4-gram) to shortest (2-gram) to
+detect a match. The predicted next word is considered using
+the longest, most frequent matching n-gram.
+
+## Application User Interface
+
+- The predicted next word will be shown when the app
+detects that you have finished typing one or more words.
+When entering text
+
+- Use the slider tool to select up to
+three next word predictions
