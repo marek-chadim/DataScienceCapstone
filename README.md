@@ -1,6 +1,6 @@
 # Overwiev
 
-This course is separated into 8 different tasks that cover the range of activities encountered by a practicing data scientist. They mirror many of the skills  developed in the data science specialization. The tasks are: 
+The project is separated into 8 different tasks that cover the range of activities encountered by a practicing data scientist. They mirror many of the skills  developed in the data science specialization. The tasks are: 
 - Understanding the problem
 - Data acquisition and cleaning
 - Exploratory analysis
