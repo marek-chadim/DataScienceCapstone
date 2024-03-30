@@ -1,3 +1,4 @@
+![certificate-of-completion](DataScience.png)
 
 The Capstone is separated into 8 different tasks that cover the range of activities encountered by a practicing data scientist. They mirror many of the skills  developed in the data science specialization. The tasks are: 
 
