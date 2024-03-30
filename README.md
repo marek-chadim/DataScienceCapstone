@@ -1,3 +1,4 @@
+![certificate-of-completion](DataScience.png)
 
 # Data Science Specialization
 The Data Science Specialization covers the concepts and tools for an
@@ -25,21 +26,4 @@ The Capstone is separated into 8 different tasks that cover the range of activit
 ## Presentation
 
 [https://rpubs.com/Marek_Chadim/1133726](https://rpubs.com/Marek_Chadim/1133726)
-
-Completed by Marek Chadim
-January 1, 2024
-Approximately 7 months at 10 hours a week to complete
-
-Marek Chadim's account is verified. Coursera certifies their successful completion of Johns Hopkins University Data Science Specialization.
-Course Certificates Completed
--The Data Scientist’s Toolbox
--Data Science Capstone
--Getting and Cleaning Data
--Exploratory Data Analysis
--Statistical Inference
--Reproducible Research
--Practical Machine Learning
--Regression Models
--R Programming
--Developing Data Products
 
