@@ -14,9 +14,9 @@ The Capstone is separated into 8 different tasks that cover the range of activit
 ## Report  
 [https://rpubs.com/Marek_Chadim/1133682](https://rpubs.com/Marek_Chadim/1133682)
 
-## Application
+## App
 [https://egozd7-marek-chadim.shinyapps.io/Capstone/](https://egozd7-marek-chadim.shinyapps.io/Capstone/)
-## Presentation
 
+## Slides
 [https://rpubs.com/Marek_Chadim/1133726](https://rpubs.com/Marek_Chadim/1133726)
 
